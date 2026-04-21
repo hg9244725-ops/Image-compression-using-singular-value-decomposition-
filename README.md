@@ -1,4 +1,4 @@
-# 📌 Project Title
+# 📌 IMAGE COMPRESSION(USING SVD)
 
 A short description of your project goes here.  
 Explain what your project does in simple words (1–2 lines).
